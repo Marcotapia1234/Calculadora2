@@ -14,6 +14,7 @@
 		A98056EB2BB4654C00588DC0 /* CalculadoraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98056EA2BB4654C00588DC0 /* CalculadoraTests.swift */; };
 		A98056F52BB4654C00588DC0 /* CalculadoraUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98056F42BB4654C00588DC0 /* CalculadoraUITests.swift */; };
 		A98056F72BB4654C00588DC0 /* CalculadoraUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98056F62BB4654C00588DC0 /* CalculadoraUITestsLaunchTests.swift */; };
+		A98057042BB46B7C00588DC0 /* BindingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98057032BB46B7C00588DC0 /* BindingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		A98056F02BB4654C00588DC0 /* CalculadoraUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculadoraUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A98056F42BB4654C00588DC0 /* CalculadoraUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculadoraUITests.swift; sourceTree = "<group>"; };
 		A98056F62BB4654C00588DC0 /* CalculadoraUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculadoraUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A98057032BB46B7C00588DC0 /* BindingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				A98056DB2BB4654500588DC0 /* ContentView.swift */,
 				A98056DD2BB4654B00588DC0 /* Assets.xcassets */,
 				A98056DF2BB4654B00588DC0 /* Preview Content */,
+				A98057032BB46B7C00588DC0 /* BindingView.swift */,
 			);
 			path = Calculadora;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				A98056DC2BB4654500588DC0 /* ContentView.swift in Sources */,
 				A98056DA2BB4654500588DC0 /* CalculadoraApp.swift in Sources */,
+				A98057042BB46B7C00588DC0 /* BindingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
